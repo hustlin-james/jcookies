@@ -1,0 +1,14 @@
+{
+    "author":"jhustlin",
+    "name":"jcookies",
+    "description":"Cookie creator and parser",
+    "version":"0.0.0",
+    "keywords":[
+        "cookie",
+        "http",
+        "parsing"
+    ],
+    "engines":{
+        "node":"*"
+    }
+}
